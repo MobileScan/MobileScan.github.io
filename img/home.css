@@ -68,9 +68,9 @@ header {
   display: flex;
   -webkit-justify-content: center;
      -moz-justify-content: center;
-      -ms-justify-content: center;
+      -ms-justify-content: left;
           justify-content: center;
-            -ms-flex-pack: center;
+            -ms-flex-pack: left;
 }
 .header_wrapper {
   position: absolute;
